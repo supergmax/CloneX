@@ -1,0 +1,16 @@
+{
+    "name": "CloneX",
+    "version": "1.0.0",
+    "lang": "FR",
+    "description" :"",
+    "main": "app.js",
+    "type": "module",
+    "scripts" : {
+      "test": "echo \"Error: no test\" && exit 1"
+    },
+    "author": "SGX",
+    "license": "ISC",
+    "display": "standalone",
+    "theme_color": "#021525",
+    "background_color": "#021525",
+}
