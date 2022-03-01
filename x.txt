@@ -1,0 +1,14 @@
+CLONEX cloneur de message / channel discord vers un autre server 
+voici la marche a  suivre
+Etape 1 
+	installer node JS
+	https://nodejs.org/en/download/
+Etape 2 
+	clonner le github
+	https://github.com/supergmax/CloneX
+Etape 3
+
+	installer le module selfcore
+	[npm install selfcore] dans la console node js ou visual studio code {sans les crochets}
+entrer le token discord dans le premier gap
+puis l'id de la channel discord et les message sont envoyer en temps reel sur le webhook
